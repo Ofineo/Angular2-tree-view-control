@@ -1,0 +1,27 @@
+{
+  "name": "dndtree",
+  "version": "1.0.0",
+  "description": "Drag and drop with tree view",
+  "main": "app.js",
+  "dependencies": {
+    "angular": "1.5.11",
+    "angular-route": "1.5.11",
+    "angular-ui-bootstrap": "^2.5.0",
+    "angular-ui-tree": "^2.22.5",
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-webserver": "^0.9.1",
+    "pump": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jordi melendez",
+  "license": "ISC"
+}
